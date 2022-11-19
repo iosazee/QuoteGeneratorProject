@@ -4,9 +4,11 @@ body {
     text-align: center;
 }
 
+
 #img1 {
     width: 50%;
     height: 50%;
+    margin-top: 30px;
 }
 
 button {
@@ -46,7 +48,6 @@ p {
     position: absolute;
     left: 500px;
     bottom: 2px;
-
 }
 
 
